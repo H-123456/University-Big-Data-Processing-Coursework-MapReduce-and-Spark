@@ -1,3 +1,14 @@
+# ‘Evaluate the top 10 smart contracts by total Ether received’
+
+# References: stackoverflow, https://stackoverflow.com/questions/16310015/what-does-this-mean-key-lambda-x-x1 (accessed 15th April 2022)
+
+# Python while loop, w3resource, https://www.w3resource.com/python/python-while-loop.php (accessed 15th April 2022)
+
+# Code also refers to some information/guidance from Big Data Science module
+
+
+
+
 from mrjob.job import MRJob
 from mrjob.step import MRStep #as used in lab 4
 
