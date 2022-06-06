@@ -1,3 +1,31 @@
+# Doing part B again but using Spark instead of MRJob. Comparing how the job runs
+
+#References: How To Read CSV File Using Python PySpark, NBSHARE, 2022, https://www.nbshare.io/notebook/187478734/How-To-Read-CSV-File-Using-Python-PySpark/ (accessed 15th April 2022)
+
+# CSV Files, Apache Spark, https://spark.apache.org/docs/latest/sql-data-sources-csv.html (accessed 15th April 2022)
+
+# PySpark Select Columns From DataFrame, Spark by {Examples}, https://sparkbyexamples.com/pyspark/select-columns-from-pyspark-dataframe/ (accessed 15th April 2022)
+
+# PySpark Join Types | Join Two DataFrames, Spark by {Examples}, https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/ (accessed 15th April 2022)
+
+# stackoverflow, https://stackoverflow.com/questions/46956026/how-to-convert-column-with-string-type-to-int-form-in-pyspark-data-frame (accessed 15th April 2022)
+
+# stackoverflow, https://stackoverflow.com/questions/38054197/convert-spark-dataframe-to-float (accessed 15th April 2022)
+
+# stackoverflow, https://stackoverflow.com/questions/46331077/how-to-convert-groupby-into-reducebykey-in-pyspark-dataframe (accessed 15th April 2022)
+
+# Spark Groupby Example with DataFrame, Spark by {Examples}, https://sparkbyexamples.com/spark/using-groupby-on-dataframe/ (accessed 15th April 2022)
+
+# PySpark orderBy() and sort() explained, Spark by {Examples}, https://sparkbyexamples.com/pyspark/pyspark-orderby-and-sort-explained/ (accessed 15th April 2022)
+
+# stackoverflow, https://stackoverflow.com/questions/30332619/how-to-sort-by-column-in-descending-order-in-spark-sql (accessed 15th April 2022)
+
+# Code also refers to some information/guidance from Big Data Science module
+
+
+
+
+
 import pyspark
 
 from pyspark.sql import SparkSession
