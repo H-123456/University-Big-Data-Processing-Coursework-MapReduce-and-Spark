@@ -1,3 +1,12 @@
+# The aim of this part is to show the average transaction value each month
+
+# Reference: stackoverflow, https://stackoverflow.com/questions/9039961/finding-the-average-of-a-list (accessed 15th April 2022)
+
+# Code also refers to some information/guidance from Big Data Science module
+
+
+
+
 from mrjob.job import MRJob
 
 import time
