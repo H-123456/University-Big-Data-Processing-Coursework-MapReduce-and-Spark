@@ -1,3 +1,12 @@
+# In this part the aim is to show the transactions occurring each month.
+
+# Reference: Python Software Foundation, time – Time access and conversions, Python, 2001-2022, https://docs.python.org/3/library/time.html#time.strftime (accessed 15th April 2022)
+
+# Code also refers to some information/guidance from Big Data Science module
+
+
+
+
 from mrjob.job import MRJob
 
 #Lab 3 supports with this question, for example on information about extracting time from the timestamp
