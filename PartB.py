@@ -1,3 +1,11 @@
+# ‘Evaluate the top 10 miners by the size of the blocks mined’
+
+# Code also refers to some information/guidance from Big Data Science module
+
+
+
+
+
 from mrjob.job import MRJob
 from mrjob.step import MRStep #as used in lab 4
 
