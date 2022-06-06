@@ -1,0 +1,27 @@
+# (reference: Queen Mary University of London, Big Data Processing, Coursework: Ethereum Analysis)
+
+# For the Blocks csv file the fields are:
+# number
+# hash
+# miner
+# difficulty
+# size
+# gas_limit
+# gas_used
+# timestamp
+# transaction_count
+
+# For the Transactions csv file the fields are:
+# block_number
+# from_address
+# to_address
+# value
+# gas
+# gas_price
+# block_timestamp
+
+# For the Contracts csv file the fields are:
+# address
+# is_erc20
+# is_erc721
+# block_number
