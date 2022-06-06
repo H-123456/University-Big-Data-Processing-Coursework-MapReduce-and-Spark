@@ -1,3 +1,14 @@
+# Aim to find a fork and analyse its effect
+
+# References: Fork (blockchain), Wikipedia, https://en.wikipedia.org/wiki/Fork_(blockchain) (accessed 15th April 2022)
+
+# Python Software Foundation, time – Time access and conversions, Python, 2001-2022, https://docs.python.org/3/library/time.html#time.strftime (accessed 15th April 2022)
+
+# Code also refers to some information/guidance from Big Data Science module
+
+
+
+
 #Appeared to be a fork on 22nd December 2017
 
 #seeing how average gas price varied for days surrounding the fork
