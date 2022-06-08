@@ -2,6 +2,14 @@
 
 # Code also refers to some information/guidance from Big Data Science module
 
+#Some further references: https://mrjob.readthedocs.io/en/stable/
+
+# https://hadoop.apache.org/docs/r2.5.2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/HadoopStreaming.html#Generic_Command_Options
+
+# https://mrjob.readthedocs.io/en/latest/guides/writing-mrjobs.html
+
+# https://stackoverflow.com/questions/8459231/sort-tuples-based-on-second-parameter
+
 
 
 
