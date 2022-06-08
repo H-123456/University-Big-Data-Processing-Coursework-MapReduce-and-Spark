@@ -10,6 +10,8 @@
 
 # https://mrjob.readthedocs.io/en/latest/guides/writing-mrjobs.html
 
+# Python Software Foundation, time – Time access and conversions, Python, 2001-2022, https://docs.python.org/3/library/time.html#time.strftime
+
 
 
 
